@@ -113,9 +113,11 @@ h1,h2,h3,h4,h5,h6 {
       <img src="4.jpg" class="w3-margin-bottom" alt="ชายหาดแหลมสมิหลา" width="100%" height="100%">
       <br>
       <img src="3.jpg" alt="ชายหาดแหลมสมิหลา" width="100%" height="100%">
-    </div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.225889613906!2d100.5937542143198!3d7.215053894791303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33682dc68fb1%3A0x85eea4961f1e7349!2z4LmB4Lir4Lil4LihIOC4quC4oeC4tOC4q-C4peC4sg!5e0!3m2!1sth!2sth!4v1493710741764" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+      
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.225889613906!2d100.5937542143198!3d7.215053894791303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304d33682dc68fb1%3A0x85eea4961f1e7349!2z4LmB4Lir4Lil4LihIOC4quC4oeC4tOC4q-C4peC4sg!5e0!3m2!1sth!2sth!4v1493710741764" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+    </div>
+   
   </div>
 <hr>
 
